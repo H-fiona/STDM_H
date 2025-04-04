@@ -1,0 +1,15 @@
+
+venv/
+.venv/
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+AUTO_SARIMA_Results/
+SARIMA_Results/
+ST_SARIMA_Results/
+LSTM_Results/
+ST_LSTM_Results/
+Comparison_Results/
+EDA_Results/

@@ -1,0 +1,7 @@
+pandas
+numpy
+pmdarima
+statsmodels
+tensorflow==2.19.0
+matplotlib
+seaborn
